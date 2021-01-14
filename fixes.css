@@ -18,10 +18,15 @@
 .md .longTOC a {
   color: #555 !important;
   font-weight: inherit !important;
+  font-size: inherit !important;
 }
 .md a, .md .longTOC a:hover {
   color: #7b3 !important;
 }
 .md a:visited {
   color: #383 !important;
+}
+
+p, li {
+  font-size: 1rem;
 }

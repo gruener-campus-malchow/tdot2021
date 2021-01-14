@@ -17,6 +17,7 @@
 
 .md .longTOC a {
   color: #555 !important;
+  font-weight: inherit !important;
 }
 .md a, .md .longTOC a:hover {
   color: #7b3 !important;

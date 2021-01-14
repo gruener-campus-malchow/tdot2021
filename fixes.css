@@ -14,3 +14,13 @@
   top: 0;
   margin-top: 115px;
 }
+
+.md .longTOC a {
+  color: #555 !important;
+}
+.md a, .md .longTOC a:hover {
+  color: #7b3 !important;
+}
+.md a:visited {
+  color: #383 !important;
+}
